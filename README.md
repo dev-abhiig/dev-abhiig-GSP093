@@ -1,2 +1,2 @@
-# dev-abhiig-GSP093
-Creating-a-Virtual-Machine---GSP001
+# Compute Engine: Qwik Start - Windows - GSP093
+Lab Solution for [Compute Engine: Qwik Start - Windows - GSP093]
